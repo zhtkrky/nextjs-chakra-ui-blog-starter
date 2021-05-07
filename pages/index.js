@@ -29,7 +29,7 @@ export default function Index() {
           maxWidth="700px"
         >
           <Heading mb={2}>Hi, I'm Zahid</Heading>
-          <Text>
+          <Text color={colorSecondary[colorMode]}>
             I am a frontend developer based in Turkey. I have over 3 years of
             experience designing and developing for small-scale start-ups to
             large scale companies. I have been a designer, a SEO specialist and
